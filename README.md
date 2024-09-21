@@ -1,6 +1,3 @@
-Here’s a draft for your GitHub README file:
-
----
 
 # 👋 Hi, I'm Muhammad Anas
 
@@ -50,8 +47,3 @@ A Django-based portfolio website for **Niersol** that showcases AI solutions. Th
 - **Email**: anas@niersol.com
 - **Website**: [niersol.com](https://niersol.com)
 - **LinkedIn**: [Muhammad Anas](https://www.linkedin.com/in/muhammad-anas-usman)
-  
----
-
-Feel free to explore my repositories and reach out if you’re interested in collaborating on AI or web development projects!
-
